@@ -67,7 +67,7 @@ The primary output is a time-series plot comparing the normalized performance of
 
 * **Top Performers:** The stock markets of **India (Nifty 50)** and the **United States (S&P 500)** were the standout performers, delivering substantial returns even after adjusting for currency. India's growth trajectory, in particular, highlights the potential of emerging economies.
 * **The Currency Effect:** Markets like **Japan (Nikkei 225)** have shown strong performance in their local currency (JPY) at various times. However, when converted to USD, these gains are significantly diminished, especially during periods of a strong dollar. This underscores the critical importance of currency risk for international investors.
-* **European Lag:** Most major European indices, including **Germany (DAX)** and **France (CAC 40)**, showed more modest growth compared to the US and India, indicating a period of slower economic expansion translating into weaker market returns for USD-based investors.
-* **Log Scale Is Key:** Using a logarithmic scale on the Y-axis was essential. It prevents the chart from being skewed by top performers (like India) and allows for a more meaningful comparison of the percentage growth rates across all countries, including the laggards.
+* **European Lag:** Most major European indices, including **Germany (DAX)** and **France (CAC 40)**, showed more modest growth compared to the US and India, indicating a period of slower economic expansion translating into weaker market returns for USD-based investors. 
+* **Log Scale Is Key:** Using a logarithmic scale on the Y-axis was essential. It prevents the chart from being skewed by top performers (like India) and allows for a more meaningful comparison of the percentage growth rates across all countries, including the laggards
 
 ---
