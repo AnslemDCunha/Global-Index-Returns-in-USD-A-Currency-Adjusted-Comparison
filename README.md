@@ -6,7 +6,7 @@ This project analyzes the performance of major stock market indices from the wor
 
 The analysis identifies the top 15 global economies based on the latest World Bank GDP data and then visualizes their stock market performance from 2010 to the present day.
 
----
+----
 
 ### Key Questions
 
